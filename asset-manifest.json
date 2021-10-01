@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/tshangman/static/css/main.1fabc03d.chunk.css",
+    "main.js": "/tshangman/static/js/main.4237ec61.chunk.js",
+    "main.js.map": "/tshangman/static/js/main.4237ec61.chunk.js.map",
+    "runtime-main.js": "/tshangman/static/js/runtime-main.f2a8fe7d.js",
+    "runtime-main.js.map": "/tshangman/static/js/runtime-main.f2a8fe7d.js.map",
+    "static/css/2.f2512455.chunk.css": "/tshangman/static/css/2.f2512455.chunk.css",
+    "static/js/2.061c64e4.chunk.js": "/tshangman/static/js/2.061c64e4.chunk.js",
+    "static/js/2.061c64e4.chunk.js.map": "/tshangman/static/js/2.061c64e4.chunk.js.map",
+    "static/js/3.be7acba2.chunk.js": "/tshangman/static/js/3.be7acba2.chunk.js",
+    "static/js/3.be7acba2.chunk.js.map": "/tshangman/static/js/3.be7acba2.chunk.js.map",
+    "index.html": "/tshangman/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/tshangman/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.1fabc03d.chunk.css.map": "/tshangman/static/css/main.1fabc03d.chunk.css.map",
+    "static/js/2.061c64e4.chunk.js.LICENSE.txt": "/tshangman/static/js/2.061c64e4.chunk.js.LICENSE.txt",
+    "static/media/Hang0.9b4b4334.jpg": "/tshangman/static/media/Hang0.9b4b4334.jpg",
+    "static/media/Hang1.81f925c9.jpg": "/tshangman/static/media/Hang1.81f925c9.jpg",
+    "static/media/Hang2.165f982f.jpg": "/tshangman/static/media/Hang2.165f982f.jpg",
+    "static/media/Hang3.9cb0c3c7.jpg": "/tshangman/static/media/Hang3.9cb0c3c7.jpg",
+    "static/media/Hang4.42246e7f.jpg": "/tshangman/static/media/Hang4.42246e7f.jpg",
+    "static/media/Hang5.4e1db088.jpg": "/tshangman/static/media/Hang5.4e1db088.jpg",
+    "static/media/HangGameOver.9e0c5b94.jpg": "/tshangman/static/media/HangGameOver.9e0c5b94.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2a8fe7d.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.061c64e4.chunk.js",
+    "static/css/main.1fabc03d.chunk.css",
+    "static/js/main.4237ec61.chunk.js"
+  ]
+}
